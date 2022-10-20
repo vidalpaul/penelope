@@ -1,1 +1,23 @@
-Penelope is an ewasm virtual machine written in Rust. It is a work in progress and is not yet ready for production use.
+🪡 Penelope is an experimental ewasm virtual machine written in Rust. 
+
+It is a work in progress and is not meant for production use.
+
+## Installation
+
+### From source
+
+You can install Penelope from source by cloning the repository and running the following commands:
+
+```bash
+$ git clone
+$ cd penelope
+$ cargo install --path .
+```
+
+### From crates.io
+
+You can install Penelope from [crates.io](https://crates.io/crates/penelope) by running:
+
+```bash
+$ cargo install penelope
+```
