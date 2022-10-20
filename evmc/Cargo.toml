@@ -1,8 +1,5 @@
-[workspace]
-members = ["evmc"]
-
 [package]
-name = "penelope"
+name = "evmc"
 version = "0.1.0"
 edition = "2021"
 
